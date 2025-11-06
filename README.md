@@ -90,3 +90,8 @@ Dependencies are listed in `requirements.txt`.
 ```bash
 pip install -r requirements.txt
 jupyter notebook SGD_Sampling_Behavior.ipynb
+```
+---
+*Author: Irene Xu*
+
+*Date: Novemeber 2025*
