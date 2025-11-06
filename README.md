@@ -94,4 +94,4 @@ jupyter notebook SGD_Sampling_Behavior.ipynb
 ---
 *Author: Irene Xu*
 
-*Date: Novemeber 2025*
+*Date: November 2025*
